@@ -1505,6 +1505,7 @@
 		"ControlName"		"CTFHudMannVsMachineScoreboard"
 		"fieldName"			"MvMScoreboard"
 		"xpos"				"c-417"
+		"xpos_minmode"		"c-320"
 		"ypos"				"-8"
 		"zpos"				"10"
 		"wide"				"f0"
