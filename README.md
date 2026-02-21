@@ -1,4 +1,4 @@
-# [PV Updated]
+# PV Updated
 
 A custom PV HUD edit that fixes a bunch of stuff, improves readability and enhances user experience.
 
@@ -18,9 +18,9 @@ A custom PV HUD edit that fixes a bunch of stuff, improves readability and enhan
 
 ## Features
 
-* **[Support for more modes]**: Custom UI for Passtime and PlayerDestruction!
-* **[MvM Support]**: MvM is now officially supported! Featuring its own scoreboard and improved money management.
-* **[TF2 Fixes]**: Uses many of the improvements from CriticalFlaw's tf2hud-fixes
+* **Support for more modes**: Custom UI for Passtime and PlayerDestruction!
+* **MvM Support**: MvM is now officially supported! Featuring its own scoreboard and improved money management.
+* **TF2 Fixes**: Uses many of the improvements from CriticalFlaw's tf2hud-fixes
 * **Resolution**: Works best on **16:9** (Support for 4:3 and 16:10 included). Made in 1440p
 
 ---
@@ -28,12 +28,12 @@ A custom PV HUD edit that fixes a bunch of stuff, improves readability and enhan
 ## Known Issues & Support
 
 * This hud keeps all of the original PV HUD jank and style. It may look odd in some places, but without compromizing gameplay.
-* Found a bug? Open an issue or contact me on Discord: **[tacc]**.
+* Found a bug? Open an issue or contact me on Discord: **tacc**.
 
 ---
 
 ## Credits
 
-* **[povohat]** - For the base HUD code.
-* **[Hypnotize]** - For the minimal objectives inspiration
-* **[CriticalFlaw]** - For the tf2hud-fixes project
+* **povohat** - For the base HUD code.
+* **Hypnotize** - For the minimal objectives inspiration
+* **CriticalFlaw** - For the tf2hud-fixes project
