@@ -275,7 +275,7 @@
 		"ControlName"								"EditablePanel"
 		"fieldName"									"BuildingAnchor"
 		"xpos"										"-10"
-		"ypos"										"135"
+		"ypos"										"8"
 		"zpos"										"0"
 		"wide"										"1"
 		"tall"										"1"
