@@ -559,6 +559,18 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		"HudFontHUGEmin"
+		{
+			"1"
+			{
+				"name"		"TF2 Build"
+				"tall"		"56"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 
 		DefaultLargest
 		{

@@ -142,6 +142,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
 		"font"			"HudFontHUGE"
+		"font_minmode"	"HudFontHUGEmin"
 		"fgcolor"		"TanLight"
 	}
 	"PlayerStatusHealthValueBG"
@@ -158,6 +159,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"
 		"font"			"HudFontHUGE"
+		"font_minmode"	"HudFontHUGEmin"
 		"fgcolor"		"SuperBlack"
 		
 		"pin_to_sibling"	"PlayerStatusHealthValue"
