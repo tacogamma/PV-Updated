@@ -24,7 +24,7 @@ A custom PV HUD edit that fixes a bunch of stuff, improves readability and enhan
 * **Support for more modes**: Custom UI for Passtime and PlayerDestruction!
 * **MvM Support**: MvM is now officially supported! Featuring its own scoreboard and improved money management.
 * **TF2 Fixes**: Uses many of the improvements from CriticalFlaw's tf2hud-fixes
-* **Resolution**: Works best on **16:9** (Support for 4:3 and 16:10 included). Made in 1440p
+* **Resolution**: Works best on **16:9** (Supports 4:3 and 16:10 fingers crossed). Made in 1440p
 
 ---
 
