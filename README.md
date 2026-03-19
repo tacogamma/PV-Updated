@@ -15,8 +15,7 @@ A custom PV HUD edit that fixes a bunch of stuff, improves readability and enhan
 2. **Extract** the `.zip` file.
 3. **Move** the folder to your TF2 custom directory:
    `...\Steam\steamapps\common\Team Fortress 2\tf\custom\`
-4. **Verify** that the folder structure looks like this:  
-   `tf/custom/[PV-Updated-master]/info.vdf`
+
 
 ---
 
